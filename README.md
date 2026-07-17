@@ -14,9 +14,6 @@ A stylish, minimalist calculator app for iOS inspired by Apple's classic design 
   <img src="https://github.com/VadimTan/mobile-ios-calculator/blob/main/mobile-ios-calculator/App/Assets.xcassets/AppIcon.appiconset/calculator.png" width="200" alt="Calculator Icon" style="border-radius: 20%;"/>
 </p>
 
-> *Tip: You can add an actual app screenshot here later:*
-> `<img src="path_to_screenshot.png" width="300" alt="App Screenshot"/>`
-
 ---
 
 ## ✨ Features
